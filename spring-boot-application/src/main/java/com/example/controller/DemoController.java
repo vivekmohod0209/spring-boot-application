@@ -10,7 +10,7 @@ public class DemoController {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "first hello";
+		return "first hello to spring";
 	}
 	
 }
